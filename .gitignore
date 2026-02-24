@@ -1,0 +1,24 @@
+# Arquivos e diretórios gerados pelo Dart/Flutter
+.dart_tool/
+.packages
+build/
+*.dart_tool
+
+# Arquivos gerados pelo Dart Frog (MUITO IMPORTANTE)
+.dart_frog/
+
+# Variáveis de ambiente (Segurança)
+.env
+.env.*
+
+# Arquivos de IDE (VS Code, IntelliJ, etc)
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Pasta git padrão
+.git
